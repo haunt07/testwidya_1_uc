@@ -1,8 +1,5 @@
 #ifndef R_SENS
-#define R_sENS
-
-#define SIM_RX 16
-#define SIM_TX 17
+#define R_SENS
 
 #define GPS_RX 15
 #define GPS_TX 4
